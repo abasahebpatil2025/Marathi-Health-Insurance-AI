@@ -28,7 +28,7 @@ A fully Marathi-language AI assistant that analyzes symptoms, checks insurance c
 ## 🚀 Setup & Installation
 
 1. **Clone the Repo:**
-   `git clone https://github.com/तुमचे-युजरनेम/Marathi-Health-Insurance-AI.git`
+  git clone https://github.com/abasahebpatil2025/Marathi-Health-Insurance-AI.git
 
 2. **Install Dependencies:**
    `pip install -r requirements.txt`
